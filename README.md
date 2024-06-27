@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is David!
-#### I am a Software Engineer and Python Developer
+#### I am a Python and Web Developer
 
 I'm a motivated techie, who is passionate about creating all kinds of projects in different languages. I like to use my creativity and problem-solving skills to create new applications and scripts to complete and achieve different functions in software development.
 
