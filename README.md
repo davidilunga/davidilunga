@@ -9,7 +9,7 @@ Skills: PYTHON/ JAVA / REACT / JS / HTML / CSS/ FLUTTER
 - 🌱 I’m currently learning React 
 - 💬 Ask me about anything tech-related
 - ⚡ Fun fact: I prefer DC over Marvel
-- 📫 How to reach me: davidilunga21@gmail.com 
+- 📫 How to reach me: davidmcilunga@gmail.com 
 
 
 <!--
